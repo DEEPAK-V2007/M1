@@ -22,7 +22,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-20 072143.png>)
+![alt text](<Screenshot 2025-10-20 072217.png>)
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
