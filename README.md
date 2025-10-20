@@ -22,7 +22,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<../Screenshot 2025-10-20 072143.png>)
+![alt text](<Screenshot 2025-10-20 072143.png>)
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -64,7 +64,7 @@ int main()
 ```
 # OUTPUT:
 
-![alt text](<../Screenshot 2025-10-20 073252.png>)
+![alt text](<Screenshot 2025-10-20 073252.png>)
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -101,7 +101,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<../Screenshot 2025-10-20 074231.png>)
+![alt text](<Screenshot 2025-10-20 074231.png>)
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -142,7 +142,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](<../Screenshot 2025-10-20 075134.png>)
+![alt text](<Screenshot 2025-10-20 075134.png>)
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -203,10 +203,10 @@ int main()
 
 ## OUTPUT:
 
-![alt text](<../Screenshot 2025-10-20 080557.png>)
-![alt text](<../Screenshot 2025-10-20 080411.png>)
-![alt text](<../Screenshot 2025-10-20 080507.png>)
-![alt text](<../Screenshot 2025-10-20 080647.png>)
+![alt text](<Screenshot 2025-10-20 080557.png>)
+![alt text](<Screenshot 2025-10-20 080411.png>)
+![alt text](<Screenshot 2025-10-20 080507.png>)
+![alt text](<Screenshot 2025-10-20 080647.png>)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
