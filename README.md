@@ -1,5 +1,10 @@
 
 # EX-01-Datatypes-Operators
+
+## NAME: DEEPAK.V
+
+## REGISTER NO: 25017595
+
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
 
